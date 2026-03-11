@@ -111,8 +111,8 @@ namespace @private
 
         void telegramSend()
         {
-            string token = "8659274309:AAHrkLUycZiIYZyC_-6QIlJXBkPu-K_qEag";
-            string chatId = "5968081561";
+        /*  string token = " Enter your bot token here !";
+            string chatId = " Enter your bot chatId here !";
 
             string url = "https://api.telegram.org/bot" + token +
                  "/sendMessage?chat_id=" + chatId +
@@ -120,7 +120,7 @@ namespace @private
 
             WebClient wc = new WebClient();
             wc.DownloadString(url);
-
+        */
         }
         void tusKombinasyonu(object sender, KeyEventArgs e)
         {
